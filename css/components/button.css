@@ -1,0 +1,25 @@
+.btn-white{
+	background-color: whitesmoke;
+	color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+.btn-white:hover{
+	background-color: black;
+	color: white;
+}
+
+.btn-black{
+	background-color: black;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+.btn-black:hover{
+	background-color: darkgrey;
+	color: black;
+}
